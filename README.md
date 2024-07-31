@@ -1,0 +1,1 @@
+For this project, I created thread pools on multiple nodes to perform load balancing of computational tasks. These computational tasks were simulations of cryptocurrency mining. So, as tasks were processed in the system, those tasks were routing to the appropriate node with the least amount of work to be "mined" accordingly.
